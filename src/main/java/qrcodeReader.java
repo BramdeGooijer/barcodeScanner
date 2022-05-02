@@ -11,6 +11,7 @@ import java.io.FileInputStream;
 public class qrcodeReader {
     public static void main(String[] args) {
         try {
+            // joi
             String path = "D:\\Bram de Gooijer\\HU\\Blok D\\BEP\\barcodeScanner\\src\\main\\java\\IMG_3130.jpg";
 
             BufferedImage bf = ImageIO.read(new FileInputStream(path));
