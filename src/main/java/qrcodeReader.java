@@ -12,7 +12,7 @@ public class qrcodeReader {
     public static void main(String[] args) {
         try {
             // joi
-            String path = "D:\\Bram de Gooijer\\HU\\Blok D\\BEP\\barcodeScanner\\src\\main\\java\\IMG_3130.jpg";
+            String path = "D:\\Bram de Gooijer\\HU\\Blok D\\BEP\\barcodeScanner\\src\\main\\java\\1045471A-1B9F-4764-B7C3-19A9B22DB50B.jpg";
 
             BufferedImage bf = ImageIO.read(new FileInputStream(path));
 
